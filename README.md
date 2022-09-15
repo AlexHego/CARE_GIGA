@@ -4,7 +4,7 @@
 
 ### Videos: 
 
-[![CARE - SV 1 planaria twitching](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=00JSI37yrSQ&t=2s "CARE - SV 1 planaria twitching")
+[![CARE - SV 1 planaria twitching](https://img.youtube.com/vi/00JSI37yrSQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=00JSI37yrSQ&t=2s "CARE - SV 1 planaria twitching")
 
 ### Citation:
 
