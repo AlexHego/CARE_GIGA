@@ -1,8 +1,8 @@
 # CARE_GIGA
-<img src="https://humantechnopole.it/wp-content/uploads/2021/03/JugGroup_03-min-1024x822.jpg" width="250" title="care" alt="care" align="right" vspace = "50">
-
 # CARE : Content-Aware Image Restoration
 
+<img src="https://github.com/AlexHego/CARE_GIGA/blob/main/ressource/CARE%20planaria%20RAW.gif%20resampled.gif" width="300" title="care" alt="care" align="left" vspace = "50">
+<img src="https://github.com/AlexHego/CARE_GIGA/blob/main/ressource/CARE%20planaria%20prediction.gif" width="300" title="care" alt="care" align="center" vspace = "50">
 
 
 
