@@ -1,5 +1,6 @@
 # CARE_GIGA
 # CARE : Content-Aware Image Restoration
+Imaging can be really challenging due to photobleaching, phototoxicity, noise, etc.. CARE is a deep learning method that helps you to improve the quality of the images AND/OR get similar quality with less light.
 
 <img src="https://github.com/AlexHego/CARE_GIGA/blob/main/ressource/CARE%20planaria%20RAW.gif%20resampled.gif" width="300" title="care" alt="care" align="left" vspace = "50">
 <img src="https://github.com/AlexHego/CARE_GIGA/blob/main/ressource/CARE%20planaria%20prediction.gif" width="300" title="care" alt="care" align="center" vspace = "50">
@@ -25,7 +26,8 @@
          ....
 
 #### 3. Download script 
-[CARE script](https://github.com/AlexHego/CARE_GIGA/blob/main/Script/CARE_script_3D.ipynb)
+[CARE script](https://github.com/AlexHego/CARE_GIGA/blob/main/Script/CARE_script_3D.ipynb)</br>
+Right click on `RaW`  > `Save As...`  (please save as .ipyb)
 
 #### 4. Start CARE with conda
 1. Activate miniconda3
@@ -37,6 +39,7 @@
 
 #### 5. Batch prediction with fiji
 1. Download the script in Jython [CARE_prediction](https://github.com/AlexHego/CARE_GIGA/blob/main/Script/CARE_prediction_script_3D.py)
+</br> Right click on `RaW`  > `Save As...`  (please save as .py)
 </br> (credit : Deborah Schmidt, frauzufall, https://github.com/CSBDeep/CSBDeep_fiji/blob/master/script/CARE_generic.py)
 2. download [imageJ/Fiji](https://imagej.net/software/fiji/downloads)
 3. Update ImageJ/Fiji > `Help` > `Update...`
